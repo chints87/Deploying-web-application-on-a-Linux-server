@@ -1,7 +1,7 @@
 # Linux server configuration to serve a Sports catalog web application
 A web server and database server setup for a *Sports catalog* web application deployed on a AWS (Amazon Web Service) ubuntu system
 ***
-### Get your server [Udacity - Student hub](https://mena.udacity.com/)
+### Get your server 
 
 1) Set up a ubuntu system using **Amazon Lightsail** from Amazon Web Services 
 
@@ -19,6 +19,8 @@ A web server and database server setup for a *Sports catalog* web application de
 6) Using your Public IP address 52.66.208.68, log into the terminal ```ssh -i ~/.ssh/linux-server-catalog.rsa ubuntu@52.66.208.68```
 
 ### Configuring and securing your server 
+
+References : [Udacity - Student hub](https://mena.udacity.com/)
 
 By default, in order to ensure that your server is secure, follow the steps shown below
 
