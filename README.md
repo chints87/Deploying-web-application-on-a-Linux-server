@@ -352,15 +352,15 @@ I am very grateful to the following people for being able to reference their wor
 
 1) [iliketomatoes](https://github.com/iliketomatoes/linux_server_configuration)
 2) [chuanqin3](https://github.com/chuanqin3/udacity-linux-configuration)
-3) [boisalai]https://github.com/boisalai/udacity-linux-server-configuration)
+3) [boisalai](https://github.com/boisalai/udacity-linux-server-configuration)
 4) [thuynh8](https://github.com/thuynh8/linux-server-project)
 5) [aaayumi](https://github.com/aaayumi/linux-server-configuration-udacity)
 6) [Udacity](https://mena.udacity.com/)
 7) [github](https://github.com/)
 8) [Stackoverflow](https://stackoverflow.com/)
 9) [askubuntu](https://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt)
-10)   [askubuntu](https://askubuntu.com/questions/767045/how-to-check-computers-timezone-through-terminal)
+10)[askubuntu](https://askubuntu.com/questions/767045/how-to-check-computers-timezone-through-terminal)
 11)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
-12)[Digitalocean  - Setting up of mod_wsgi and flask](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+12)[Digitalocean-Setting up of mod_wsgi and flask](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
 13)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
 
