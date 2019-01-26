@@ -1,7 +1,7 @@
 # Linux server configuration to serve a Sports catalog web application
 A web server and database server setup for a *Sports catalog* web application deployed on a AWS (Amazon Web Service) ubuntu system
 ***
-### Get your server (Udacity - Student hub) [(https://mena.udacity.com/)]
+### Get your server [Udacity - Student hub](https://mena.udacity.com/)
 
 1) Set up a ubuntu system using **Amazon Lightsail** from Amazon Web Services 
 
@@ -317,8 +317,7 @@ GRANT ALL ON SCHEMA public TO catalog;
 
 1) Go to ```cd /var/www/catalog/catalog``` and change name of file ```sudo mv application.py to __init__.py```
 
-2) In __init__.py change engine from sqlite to postgresql ```engine = create_engine('postgresql://catalog:catalog@localhost/catalog')
-```
+2) In __init__.py change engine from sqlite to postgresql ```engine = create_engine('postgresql://catalog:catalog@localhost/catalog')```
 
 3) Make the following changes to app.run by entering the IP address and the port number as shown
 ```
@@ -361,7 +360,6 @@ I am very grateful to the following people for being able to reference their wor
 8) [Stackoverflow](https://stackoverflow.com/)
 9) [askubuntu](https://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt)
    [askubuntu](https://askubuntu.com/questions/767045/how-to-check-computers-timezone-through-terminal)
-10) [Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
-11) [Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) - Setting up of mod_wsgi and flask
-12) [Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
-
+10)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
+11)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) - Setting up of mod_wsgi and flask
+12)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
