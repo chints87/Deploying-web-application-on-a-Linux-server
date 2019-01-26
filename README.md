@@ -359,7 +359,8 @@ I am very grateful to the following people for being able to reference their wor
 7) [github](https://github.com/)
 8) [Stackoverflow](https://stackoverflow.com/)
 9) [askubuntu](https://askubuntu.com/questions/138423/how-do-i-change-my-timezone-to-utc-gmt)
-   [askubuntu](https://askubuntu.com/questions/767045/how-to-check-computers-timezone-through-terminal)
-10)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
-11)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps) - Setting up of mod_wsgi and flask
-12)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
+10)   [askubuntu](https://askubuntu.com/questions/767045/how-to-check-computers-timezone-through-terminal)
+11)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-18-04)
+12)[Digitalocean  - Setting up of mod_wsgi and flask](https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps)
+13)[Digitalocean](https://www.digitalocean.com/community/tutorials/how-to-secure-postgresql-on-an-ubuntu-vps)
+
