@@ -7,7 +7,7 @@ A web server and database server setup for a *Sports catalog* web application de
 2) Once the ubuntu instance has been setup, a IP address is provided. For this setup, **The Pulbic IP address here is 13.127.75.75 The hostname for this IP 
    address that serves this application is http://ec2-13-127-7-75.ap-south-1.compute.amazonaws.com**
 
- **LOGIN DETAILS FOR GRADER** ssh -i ~/.ssh/linuxProject.pub -p 2200 grader@13.127.7.75. There is no passphrase and password is 'grader'
+ **LOGIN DETAILS FOR GRADER** ssh -i ~/.ssh/linuxProject -p 2200 grader@13.127.7.75   
 
 3) By default, you will be logged into the ubuntu system with 'ubuntu'
 
