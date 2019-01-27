@@ -11,11 +11,11 @@ A web server and database server setup for a *Sports catalog* web application de
 
 3) By default, you will be logged into the ubuntu system with 'ubuntu'
 
-4) Download the ssh key from the account ``` LightsailDefaultKey-ap-south-1.pem```and place it in your local system path and rename it as ```linux-server-catalog.rsa``` 
+4) Download the ssh key from the account ``` LightsailDefaultKey-ap-south-1.pem```and place it in your local system path
 
-5) Change rights for the RSA key in your local system by typing ```chmod 600 ~/.ssh/linux-server-catalog.rsa```
+5) Change rights for the RSA key in your local system by typing ```chmod 600 ~/.ssh/ LightsailDefaultKey-ap-south-1.pem```
 
-6) Using your Public IP address 52.66.208.68, log into the terminal ```ssh -i ~/.ssh/linux-server-catalog.rsa ubuntu@52.66.208.68```
+6) Using your Public IP address 52.66.208.68, log into the terminal ```ssh -i ~/.ssh/ LightsailDefaultKey-ap-south-1.pem ubuntu@13.127.75.75```
 
 ### Configuring and securing your server 
 
